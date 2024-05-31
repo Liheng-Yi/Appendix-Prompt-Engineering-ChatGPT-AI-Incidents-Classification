@@ -1,0 +1,38 @@
+## Appendix A: Prompt with clear steps
+
+STEP 1: Read the article text:
+================== Start of Article Content =================
+{article_text}
+================== End of Article Content ===================
+
+STEP 2: State your reason for your classifications for the following:
+================== Classification Fields ====================
+- Country (output "Worldwide" if the incident happened across multiple countries):
+- State (if not applicable, leave blank):
+- City (if not applicable, leave blank):
+- Continent (output "Worldwide" if the incident happened across multiple countries):
+- Company (i.e., the company that developed the technology involved in this incident):
+- Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarters):
+- Company state (the state of the company city, if applicable, if not leave blank):
+- Affected population (think about which groups of people are directly affected by the incident in the article):
+- Number of people actually affected (let’s check the number of people directly affected according to the article. Give a total number. If unknown, output 'Unknown'):
+- Number of people potentially affected (let’s check the article text to see if this information is provided or suggested, if not, you may output 'Unknown'):
+- Classes of irresponsible AI use (please follow the rules and refer to this taxonomy:·
+‘‘‘
+taxonomy classes
+{taxa.classes}
+‘‘‘
+Rule1: There could be more than one class the article classifies as.
+Rule2: DO NOT create your own class, adhere strictly to the provided list.
+- Subclasses (please follow the rules and refer to this taxonomy structure ‘<class>:[<subclass>]’):
+‘‘‘
+taxonomy subclasses
+{taxa.subclasses}
+‘‘‘
+
+STEP 3: Make sure your classification output follows this format:
+‘‘‘
+THIS IS AN EXAMPLE
+{example_output_id_6}
+‘‘‘
+END OF EXAMPLE

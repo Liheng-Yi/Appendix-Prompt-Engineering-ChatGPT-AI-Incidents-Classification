@@ -2,7 +2,7 @@
 
 The following JSON of 17 incidents are the results of our manual classifications that was discussed and decided among three people after reading the articles of the incidents. This was used as a benchmark for comparison with the LLM generated results.
 
-\`\`\`json
+```json
 [
   {
     "id": 1,
@@ -311,6 +311,6 @@ The following JSON of 17 incidents are the results of our manual classifications
     "Online": "yes"
   }
 ]
-\`\`\`
+```
 
 classification results of 17 incidents handpicked by the team. The 17 incidents covered all the classes of harm of our taxonomy.

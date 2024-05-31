@@ -1,3 +1,4 @@
+## Appendix A: Prompt with clear steps
 STEP 1: Read the article text:
 ================== Start of Article Content =================
 {article_text}

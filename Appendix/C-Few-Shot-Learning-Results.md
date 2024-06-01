@@ -3,7 +3,7 @@
 These are the classification results of 17 incidents from GPT-4 with two-shot
 prompting with Chain-of-Thought (CoT) technique.
 
-````json
+```json
 {
     "1": {
         "Country": "Global",
@@ -347,4 +347,4 @@ prompting with Chain-of-Thought (CoT) technique.
         }
     }
 }
-````
+```

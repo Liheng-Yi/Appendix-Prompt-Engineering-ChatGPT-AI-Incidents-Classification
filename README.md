@@ -1,6 +1,6 @@
 ## Supplementary Appendix for "Advancing AI Incidents Classification: Leveraging LLMs with Strategic Prompting"
 
-This repository contains the supplementary appendix for the research paper authored by Yian Chen, Lana Do, Liheng Yi, Ricardo Baeza-Yates, and John A. Guerra-Gomez.
+This repository contains the supplementary appendix for the research paper authored by Yian Chen, Lana Do, Liheng Yi, Ricardo Baeza-Yates, and John A. Guerra-Gomez.<br>
 Source code: https://github.com/yianan261/IrresponsibleAI
 ## Repository Contents
 

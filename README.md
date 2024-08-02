@@ -11,6 +11,7 @@ Source code: https://github.com/yianan261/IrresponsibleAI
 - **D - Tree of Thought Framework Classification Results**: Results from the Tree of Thought framework experiments.
 - **E - Zero-Shot Learning Classification Results**: Findings from zero-shot learning tests.
 - **F - Table Comparison of Classification Results**: Comparative tables summarizing all classification results.
+- **G - Prompt**: to calculate the tokens that each prompt that we have used.
 
 ## Contact
 For any queries related to the repository or research, please contact:

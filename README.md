@@ -1,4 +1,5 @@
-## Supplementary Appendix for "Advancing AI Incidents Classification: Leveraging LLMs with Strategic Prompting"
+## Supplementary Appendix for "PROMPT ENGINEERING WITH CHATGPT: NEW APPROACHES TO CLASSIFYING AI INCIDENTS"
+## Apéndice Suplementario para "INGENIERÍA DE PROMPTS PARA CHATGPT: NUEVOS ENFOQUES PARA CLASIFICAR INCIDENTES QUE INVOLUCRAN INTELIGENCIA ARTIFICAL"
 
 This repository contains the supplementary appendix for the research paper authored by Yian Chen, Lana Do, Liheng Yi, Ricardo Baeza-Yates, and John A. Guerra-Gomez.<br>
 Source code: https://github.com/yianan261/IrresponsibleAI
